@@ -11,6 +11,7 @@
 
 .navbar-custom .navbar-nav .nav-link{
   color: #5482ab;
+  font-size: 1.2rem;
 }
 
 .custom-toggler.navbar-toggler {
@@ -29,8 +30,9 @@
 .service-1d, .service-6m, #call-to-action{
     color:#fff;
 }
-#call-to-action{
-    padding: 5rem 0;
+
+section{
+    padding: 2.5rem 0;
 }
 
 .breadcrumb{
