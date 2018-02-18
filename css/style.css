@@ -6,11 +6,11 @@
 .my-4{
     max-width: 50px;
     height: 1.5px;
-    background-color:blueviolet;
+    background-color:#954975;
 }
 
 .nav-link a{
-    color: purple;
+    color: #954975;
 }
 #call-to-action{
     padding: 5rem 0;
@@ -20,9 +20,12 @@
     background:none;
 }
 
+.breadcrumb a{
+    color:#5482ab;
+}
 
 #call-to-action{
-    background-color: blueviolet;
+    background-color: #954975;
 }
 
 
@@ -40,11 +43,11 @@ h2{
 }
 
 .service-1d{
-    background-color: olivedrab;
+    background-color: #5482ab;
 }
 
 .service-6m{
-    background-color: mediumvioletred;
+    background-color: #954975;
 }
 
 .card-img{
