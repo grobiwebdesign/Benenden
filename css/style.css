@@ -1,0 +1,57 @@
+.header{
+    background-color: blueviolet;
+    min-height: 200px;
+}
+
+.my-4{
+    max-width: 50px;
+    height: 1.5px;
+    background-color:blueviolet;
+}
+
+.nav-link a{
+    color: purple;
+}
+#call-to-action{
+    padding: 5rem 0;
+}
+
+.breadcrumb{
+    background:none;
+}
+
+
+#call-to-action{
+    background-color: blueviolet;
+}
+
+
+h2{
+    margin-bottom: 1.5rem !important;
+}
+
+.btn{
+    padding: 1rem 2rem;
+}
+
+.fa{
+    margin-right: 10px;
+    font-size: 3 rem;
+}
+
+.service-1d{
+    background-color: olivedrab;
+}
+
+.service-6m{
+    background-color: mediumvioletred;
+}
+
+.card-img{
+    border-radius:0px;
+    max-height: 200px; 
+}
+
+.card{
+    margin-bottom: 20px;
+}
