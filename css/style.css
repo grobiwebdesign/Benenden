@@ -1,6 +1,11 @@
 .header{
     background-color: blueviolet;
-    min-height: 200px;
+    min-height: 150px;
+}
+
+.navbar-brand{
+    width:200px;
+    height: auto;
 }
 
 .my-4{
@@ -71,9 +76,16 @@ h2{
 
 .card-img{
     border-radius:0px;
-    max-height: 200px; 
+    object-fit: cover;
+    height: 200px;
 }
 
 .card{
     margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px){
+.navbar-brand{
+    max-width: 150px;
+    }
 }
